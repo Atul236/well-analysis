@@ -2,3 +2,8 @@ Collected well production, details, field details, and cost data.
 Analyzed oil (1000-1500 bpm), gas (500-700 cubic feet/month), and water (200-300 bpm) production.
 Found positive correlation between oil & gas (0.98) and negative correlation between water & temperature (-0.45).
 Field B had highest oil production (4200 bpm); assessed cost efficiency and noted initial high production with gradual decline.
+   or 
+Collected well production, well details, field details, and well cost data, including oil, gas, water production, pressure, temperature, depth, drilling cost, completion cost, and operating cost.
+Analyzed oil production (1000-1500 bpm), gas production (500-700 cubic feet/month), and water production (200-300 bpm).
+Identified positive correlation between oil & gas production (0.98) and negative correlation between water production & temperature (-0.45), with stable monthly production trends.
+Compared fields, finding Field B with highest oil production (4200 bpm), and assessed cost efficiency of wells with lower drilling costs achieving significant production, noting initial high production and gradual decline over time.
