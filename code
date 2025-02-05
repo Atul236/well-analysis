@@ -1,4 +1,18 @@
-Sure! Here is the detailed analysis with code, explanation, data, and results for the specified analyses:
+I apologize for that oversight. Here are the datasets you can use for your analysis:
+
+1. **Well Production Data**:
+   - [Download Well Production Data](blob:https://outlook.office.com/75d8302c-5c1d-4496-a837-2a48dacf9923)
+
+2. **Well Details**:
+   - [Download Well Details](blob:https://outlook.office.com/11d1b3dc-be69-4756-b3bb-431d29a294ad)
+
+3. **Field Details**:
+   - [Download Field Details](blob:https://outlook.office.com/96fc7625-c4c0-4aa8-a8d8-a266c4a1fd0d)
+
+4. **Well Cost Data**:
+   - [Download Well Cost Data](blob:https://outlook.office.com/964c3120-ff98-4326-880c-b72a7ecc9095)
+
+You can use these datasets to perform the following analyses:
 
 ### 1. Descriptive Analysis
 #### Summary Statistics
@@ -144,3 +158,4 @@ plt.show()
 ```
 **Explanation**: This code merges the production and cost data, calculates the total oil production for each well, and plots the relationship between drilling cost and total oil production.
 
+Feel free to use this code to perform the analysis on your dataset. If you need any further assistance or additional analysis, just let me know!
