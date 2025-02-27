@@ -1,4 +1,52 @@
-ith the enhanced datasets, you can perform a wide range of analyses to gain valuable insights into the pharmaceutical sales landscape. Here are some specific types of analysis you can conduct:
+o make the dataset more comprehensive for a big pharmaceutical client, you can add additional fields that provide deeper insights and allow for more detailed analysis. Here are some suggestions for additional fields you can include in each table:
+
+Enhanced Datasets
+1. Sales Transactions Table
+Columns:
+transaction_id
+drug_id
+quantity_sold
+sale_date
+revenue
+customer_id (to link with the Customers table)
+rep_id (to link with the Sales Representatives table)
+discount (to capture any discounts applied)
+channel (e.g., retail, wholesale, online)
+2. Drugs Table
+Columns:
+drug_id
+drug_name
+category
+price
+manufacturer (to capture the manufacturer of the drug)
+expiry_date (to track the expiration date of the drug)
+form (e.g., tablet, capsule, liquid)
+dosage (e.g., 500mg, 10ml)
+3. Customers Table
+Columns:
+customer_id
+customer_name
+region
+customer_type (e.g., pharmacy, hospital, clinic)
+contact_person (to capture the primary contact person)
+contact_number (to capture the contact number)
+email (to capture the email address)
+address (to capture the full address)
+4. Sales Representatives Table
+Columns:
+rep_id
+rep_name
+region
+email (to capture the email address)
+phone_number (to capture the contact number)
+hire_date (to track when the representative was hired)
+performance_rating (to capture performance ratings)
+Potential Analysis with Enhanced Fields
+Sales Performance Analysis:
+
+
+
+
 
 1. Sales Performance Analysis
 Monthly/Yearly Sales Trends: Track and visualize sales trends over time to identify peak sales periods and seasonal patterns.
