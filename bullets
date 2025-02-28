@@ -1,5 +1,5 @@
 Data Analyst | Infosys Ltd.
-                                            Tech Stack: Data Lake, Python, SQL, Databricks, MySQL, Power BI
+                                            Tech Stack: Azure,Data Lake, Python, SQL, Databricks, MySQL, Power BI
 Pulled data from a Data Lake to ensure comprehensive and up-to-date information for analysis.
 Transformed and Cleaned data by removing duplicates, handling missing values, correcting errors, and ensuring consistency using Pandas.
 Conducted exploratory data analysis (EDA) to identify patterns, correlations, and outliers using Pandas and Seaborn.
